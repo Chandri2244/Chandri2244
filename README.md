@@ -1,10 +1,10 @@
 
-[![Header](https://github.com/Chandri2244/Chandri2244/blob/main/C:\Users\KORE HARSHITA VINAYA\Downloads\github-header-image.png?raw=true)]
+![Header](https://github.com/Chandri2244/Chandri2244/blob/main/github-header-image.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Kore Chandrika</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-<p align="left"> <img src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=search&page=1&position=0&uuid=ff45c0bb-07ba-450b-bcc2-2bccfb4ff608&query=Coding+Gif+girls+" alt="chandri2244" /> </p>
+<p align="left"> <img src="C:\Users\KORE HARSHITA VINAYA\Downloads\gitub_profilepic.png" alt="chandri2244" /> </p>
 
 - 🔭 I’m currently working on **Major Project**
 
