@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Kore Chandrika</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-<p align="left"> <img src="C:\Users\KORE HARSHITA VINAYA\Downloads\gitub_profilepic.png" alt="chandri2244" /> </p>
 
 - 🔭 I’m currently working on **Major Project**
 
